@@ -1,0 +1,4 @@
+[submodule "terraform-google-kubernetes-engine"]
+	path = terraform-google-kubernetes-engine
+	url = https://github.com/terraform-google-modules/terraform-google-kubernetes-engine.git
+    tag = v24.0.0
